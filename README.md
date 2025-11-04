@@ -24,6 +24,14 @@ Iterate through the list, merging ranges that overlap or have a gap smaller than
 
 Return the final merged list of ranges.
 
+## ⚙️ Installation & Setup
+1. **Clone or extract** the project.
+2. Open the folder in **VS Code**.
+3. Run the following command in the terminal:
+ npm install
+ To test the module, run:
+ npm start
+
 
 🧑‍💻 Author
 Name :Dipti
