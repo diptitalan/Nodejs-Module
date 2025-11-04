@@ -26,5 +26,5 @@ Return the final merged list of ranges.
 
 
 🧑‍💻 Author
-Dipti
+Name :Dipti
 Email:deeptitalan956@gmail.com
