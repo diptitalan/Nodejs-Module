@@ -1,0 +1,12 @@
+
+{
+  "name": "nodejs-module",
+  "version": "1.0.0",
+  "description": "NodeJS module to merge time ranges within a threshold",
+  "main": "my-module.js",
+  "scripts": {
+    "start": "node test.cjs"
+  },
+  "author": "Dipti",
+  "license": "ISC"
+}
